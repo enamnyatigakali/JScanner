@@ -87,7 +87,7 @@ def generate_layman_report(filepath: str, source: str, pattern_findings, entropy
         f.write("========================================================================\n")
         f.write(BANNER)
         f.write("========================================================================\n")
-        f.write("          LAPORAN PEMERIKSAAN FILE JAVASCRIPT (RINGKAS)\n")
+        f.write("          LAPORAN PEMERIKSAAN FILE JAVASCRIPT \n")
         f.write("========================================================================\n\n")
         
         f.write(f"Tanggal Pemeriksaan : {waktu_scan}\n")
