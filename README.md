@@ -1,5 +1,6 @@
+![JScanner](https://github.com/enamnyatigakali/JScanner/blob/main/JScanner%20.png?raw=true)
+
 # JScanner
-> *JS Secret & Credential Scanner for Humans**
 
 `JScanner` *security auditing tool* yang dibuat dengan Python, yang dirancang untuk melakukan scanning pada file JavaScript (baik lokal maupun langsung dari URL) guna mendeteksi kebocoran data sensitif. Tools ini akan melakukan deteksi pada *hardcoded* API Keys, Token, Kredensial, serta informasi lingkungan kerja (*environment*) internal yang tidak sengaja terekspos ke publik.
 
