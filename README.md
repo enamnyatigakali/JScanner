@@ -62,6 +62,10 @@ Contoh Scan via local file
 python3 js_scanner.py index-123456.js -o laporan_example.com.txt
 ```
 ---
+### Sample Report
+
+![JScanner](https://github.com/enamnyatigakali/JScanner/blob/main/Sample%20JSanner%20Report.png?raw=true)
+---
 ### Lisensi
 
 Proyek ini dilisensikan di bawah MIT License 
